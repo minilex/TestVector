@@ -1,0 +1,55 @@
+usb_device.pbi: D:\PROJECTS_IAR\TestVector\Src\usb_device.c \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\usb_device.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include\stm32f1xx.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Include\core_cm3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\stm32f1xx_hal_conf.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_rcc.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_gpio.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_exti.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_dma.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_cortex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_crc.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_flash.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_pwr.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_tim.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_pcd.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc\usbd_def.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\usbd_conf.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc/main.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc\usbd_core.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\usbd_desc.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc\usbd_cdc.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc\usbd_ioreq.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\usbd_cdc_if.h
