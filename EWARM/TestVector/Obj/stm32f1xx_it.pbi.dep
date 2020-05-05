@@ -36,4 +36,5 @@ stm32f1xx_it.pbi: D:\PROJECTS_IAR\TestVector\Src\stm32f1xx_it.c \
   D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_pcd.h \
   D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   D:\PROJECTS_IAR\TestVector\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
-  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\stm32f1xx_it.h
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\stm32f1xx_it.h \
+  D:\PROJECTS_IAR\TestVector\EWARM/../Inc\protocolVector.h
