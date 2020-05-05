@@ -124,7 +124,8 @@ void sendBufer(uint16_t paramMask)
     /* Завершаем заполнение неполного пакета */
     *((uint32_t*)(&packet[currentPacket][0])) = PREAMBLE; /*Preamble*/
     packet[currentPacket][4] = currentParam;
-    *((uint32_t*)(&packet[currentPacket][PREAMBLE_SIZE + N_SIZE + currentParam * (CODE_SIZE + VALUE_SIZE)])) = CRC32(0, PREAMBLE_SIZE + N_SIZE + currentParam * (CODE_SIZE + VALUE_SIZE), &packet[currentPacket][0] ); /*CRC*/
+    *((uint32_t*)(&packet[currentPacket][PREAMBLE_SIZE + N_SIZE + currentParam * (CODE_SIZE + VALUE_SIZE)])) = \
+      CRC32(0, PREAMBLE_SIZE + N_SIZE + currentParam * (CODE_SIZE + VALUE_SIZE), &packet[currentPacket][0] ); /*CRC*/
     
     /* Формируем один буфер */
     for (uint8_t i = 0; i <= currentPacket ; i++)
